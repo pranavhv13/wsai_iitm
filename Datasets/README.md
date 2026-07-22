@@ -56,8 +56,3 @@ These datasets support the development of persona-aware mental health AI by:
 Wadhwani School of Data Science and AI (WSAI)
 Indian Institute of Technology Madras
 
----
-
-**Author**
-
-Pranav H V
