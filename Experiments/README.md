@@ -5,7 +5,6 @@ This directory contains the experiments carried out during my internship at the 
 The experiments focus on integrating Indian personas with mental health conversations.
 
 ---
-z
 
 ## Directory Structure
 
