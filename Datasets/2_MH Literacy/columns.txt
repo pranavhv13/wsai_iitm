@@ -1,0 +1,114 @@
+Column Explanations – AI Driven Mental Health Literacy Dataset
+
+Demographic Information
+-----------------------
+Age
+    Participant's age.
+
+Gender
+    Participant's gender.
+
+Educational.Qualification
+    Highest educational qualification completed.
+
+GPT_Use
+    Whether or how frequently the participant uses ChatGPT.
+
+Pre-Intervention Measures (Before Using ChatGPT)
+------------------------------------------------
+
+pre.MHL_KMHP
+    Knowledge about mental health problems.
+
+pre.MHL_EBS
+    Beliefs and misconceptions about mental health.
+
+pre.MHL_FASHSB
+    Knowledge of mental health first aid and help-seeking behavior.
+
+pre.MHL_SHS
+    Knowledge of self-help strategies for mental health.
+
+pre.MHL_Total
+    Overall mental health literacy score.
+
+pre.MHSAS
+    Confidence in seeking professional mental health support.
+
+pre.STIG
+    Level of stigma toward mental health issues.
+
+pre.MHSES
+    Confidence in managing mental health challenges.
+
+pre.SPANE_P
+    Positive emotions and experiences.
+
+pre.SPANE_N
+    Negative emotions and experiences.
+
+pre.SPANE_B
+    Overall emotional balance (positive minus negative feelings).
+
+pre.FLOUSC
+    Psychological well-being and flourishing.
+
+Post-Intervention Measures (After Using ChatGPT)
+------------------------------------------------
+
+post.MHL_KMHP
+    Knowledge about mental health problems after intervention.
+
+post.MHL_EBS
+    Beliefs and misconceptions about mental health after intervention.
+
+post.MHL_FASHSB
+    Knowledge of mental health first aid and help-seeking behavior after intervention.
+
+post.MHL_SHS
+    Knowledge of self-help strategies after intervention.
+
+post.MHL_Total
+    Overall mental health literacy score after intervention.
+
+post.MHSAS
+    Confidence in seeking professional mental health support after intervention.
+
+post.STIG
+    Level of stigma toward mental health issues after intervention.
+
+post.MHSES
+    Confidence in managing mental health challenges after intervention.
+
+post.SPANE_P
+    Positive emotions and experiences after intervention.
+
+post.SPANE_N
+    Negative emotions and experiences after intervention.
+
+post.SPANE_B
+    Overall emotional balance after intervention.
+
+post.FLOUSC
+    Psychological well-being and flourishing after intervention.
+
+ChatGPT Evaluation
+------------------
+
+GPT_Rating
+    Overall rating given to ChatGPT.
+
+Prompts_Rating
+    Rating of the prompts or interactions used.
+
+Intervention_Rating
+    Rating of the overall intervention experience.
+
+MHL_Rating
+    Rating of ChatGPT's usefulness for mental health literacy.
+
+GPT_MHL
+    Whether the participant felt ChatGPT improved their mental health literacy.
+
+GPT_Flaw
+    Whether the participant noticed any flaws or limitations in ChatGPT responses.

@@ -1,0 +1,359 @@
+Dreaddit Dataset - Column Explanations
+
+Basic Information
+-----------------
+
+id
+    Unique identifier for each post.
+
+subreddit
+    Reddit community where the post was published.
+
+post_id
+    Original Reddit post ID.
+
+sentence_range
+    Sentence positions extracted from the original post.
+
+text
+    Actual text content of the post.
+
+label
+    Stress classification label.
+    (1 = stressed, 0 = not stressed)
+
+confidence
+    Confidence score for the assigned label.
+
+Social Media Features
+---------------------
+
+social_timestamp
+    Time when the post was created.
+
+social_karma
+    Reddit karma score of the user/post.
+
+social_upvote_ratio
+    Ratio of upvotes to total votes.
+
+social_num_comments
+    Number of comments received.
+
+Readability Features
+--------------------
+
+syntax_ari
+    Automated Readability Index (text difficulty).
+
+syntax_fk_grade
+    Flesch-Kincaid Grade Level (education level needed to read the text).
+
+Sentiment
+---------
+
+sentiment
+    Overall sentiment score of the text.
+    Positive values = positive sentiment.
+    Negative values = negative sentiment.
+
+LIWC Linguistic Features
+------------------------
+
+(LIWC = Linguistic Inquiry and Word Count)
+
+These columns contain percentages or scores showing how often certain types of words appear.
+
+General Writing Style
+---------------------
+
+lex_liwc_WC
+    Word count.
+
+lex_liwc_Analytic
+    Analytical thinking score.
+
+lex_liwc_Clout
+    Confidence and expertise score.
+
+lex_liwc_Authentic
+    Authenticity or personal honesty score.
+
+lex_liwc_Tone
+    Emotional tone score.
+
+lex_liwc_WPS
+    Average words per sentence.
+
+lex_liwc_Sixltr
+    Percentage of words with six or more letters.
+
+Pronouns & Grammar
+------------------
+
+lex_liwc_pronoun
+    All pronouns.
+
+lex_liwc_ppron
+    Personal pronouns.
+
+lex_liwc_i
+    First-person singular pronouns (I, me).
+
+lex_liwc_we
+    First-person plural pronouns (we).
+
+lex_liwc_you
+    Second-person pronouns.
+
+lex_liwc_shehe
+    Third-person singular pronouns.
+
+lex_liwc_they
+    Third-person plural pronouns.
+
+lex_liwc_article
+    Articles (a, an, the).
+
+lex_liwc_prep
+    Prepositions.
+
+lex_liwc_auxverb
+    Auxiliary verbs.
+
+lex_liwc_adverb
+    Adverbs.
+
+lex_liwc_conj
+    Conjunctions.
+
+lex_liwc_negate
+    Negation words (not, never).
+
+lex_liwc_verb
+    Verbs.
+
+lex_liwc_adj
+    Adjectives.
+
+Emotion Features
+----------------
+
+lex_liwc_affect
+    Emotional words.
+
+lex_liwc_posemo
+    Positive emotion words.
+
+lex_liwc_negemo
+    Negative emotion words.
+
+lex_liwc_anx
+    Anxiety-related words.
+
+lex_liwc_anger
+    Anger-related words.
+
+lex_liwc_sad
+    Sadness-related words.
+
+Social Features
+---------------
+
+lex_liwc_social
+    Social-related words.
+
+lex_liwc_family
+    Family-related words.
+
+lex_liwc_friend
+    Friend-related words.
+
+lex_liwc_female
+    Female-related references.
+
+lex_liwc_male
+    Male-related references.
+
+Thinking & Cognition
+--------------------
+
+lex_liwc_cogproc
+    Cognitive processing words.
+
+lex_liwc_insight
+    Insight-related words.
+
+lex_liwc_cause
+    Cause-and-effect words.
+
+lex_liwc_discrep
+    Discrepancy words.
+
+lex_liwc_tentat
+    Tentative words.
+
+lex_liwc_certain
+    Certainty words.
+
+lex_liwc_differ
+    Differentiation words.
+
+Perception Features
+-------------------
+
+lex_liwc_percept
+    Perception-related words.
+
+lex_liwc_see
+    Visual perception words.
+
+lex_liwc_hear
+    Hearing-related words.
+
+lex_liwc_feel
+    Feeling-related words.
+
+Biological & Health Features
+----------------------------
+
+lex_liwc_bio
+    Biological process words.
+
+lex_liwc_body
+    Body-related words.
+
+lex_liwc_health
+    Health-related words.
+
+lex_liwc_sexual
+    Sexual-related words.
+
+lex_liwc_ingest
+    Eating and drinking words.
+
+Motivation & Drives
+-------------------
+
+lex_liwc_drives
+    Motivation-related words.
+
+lex_liwc_affiliation
+    Relationship and belonging words.
+
+lex_liwc_achieve
+    Achievement-related words.
+
+lex_liwc_power
+    Power and control words.
+
+lex_liwc_reward
+    Reward-related words.
+
+lex_liwc_risk
+    Risk-related words.
+
+Time Orientation
+----------------
+
+lex_liwc_focuspast
+    Past-focused words.
+
+lex_liwc_focuspresent
+    Present-focused words.
+
+lex_liwc_focusfuture
+    Future-focused words.
+
+Life Domains
+------------
+
+lex_liwc_work
+    Work-related words.
+
+lex_liwc_leisure
+    Leisure-related words.
+
+lex_liwc_home
+    Home-related words.
+
+lex_liwc_money
+    Money-related words.
+
+lex_liwc_relig
+    Religion-related words.
+
+lex_liwc_death
+    Death-related words.
+
+Informal Language
+-----------------
+
+lex_liwc_informal
+    Informal language.
+
+lex_liwc_swear
+    Swear words.
+
+lex_liwc_netspeak
+    Internet slang.
+
+lex_liwc_assent
+    Agreement words.
+
+lex_liwc_nonflu
+    Non-fluencies (uh, um).
+
+lex_liwc_filler
+    Filler words.
+
+Punctuation Features
+--------------------
+
+lex_liwc_AllPunc
+    Total punctuation usage.
+
+lex_liwc_Period
+    Full stops.
+
+lex_liwc_Comma
+    Commas.
+
+lex_liwc_QMark
+    Question marks.
+
+lex_liwc_Exclam
+    Exclamation marks.
+
+lex_liwc_Quote
+    Quotation marks.
+
+lex_liwc_Apostro
+    Apostrophes.
+
+DAL (Dictionary of Affective Language) Features
+------------------------------------------------
+
+These measure emotional characteristics of words.
+
+Pleasantness
+    How pleasant or unpleasant the language is.
+
+Activation
+    Emotional intensity or arousal.
+
+Imagery
+    How strongly words evoke mental images.
+
+Columns:
+    lex_dal_max_pleasantness
+    lex_dal_min_pleasantness
+    lex_dal_avg_pleasantness
+
+    lex_dal_max_activation
+    lex_dal_min_activation
+    lex_dal_avg_activation
+
+    lex_dal_max_imagery
+    lex_dal_min_imagery
+    lex_dal_avg_imagery

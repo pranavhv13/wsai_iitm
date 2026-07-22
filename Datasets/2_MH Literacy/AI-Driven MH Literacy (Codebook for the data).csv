@@ -1,0 +1,38 @@
+Age,Age of the Particiapant,in numbers 
+Gender,Gender of the Participant,Male/ Female/ Other
+Educational.Qualification,Educational qualification of the Participant ,Pursuing/ completed a Bachelor's/ Master's degree
+GPT_Use,Have you used ChatGPT?,Occasionally/ Always/ Never
+pre.MHL_KMHP,Pre-test - Mental Health Literacy - Knowledge of mental health problems,"Mental Health Literacy questionnaire-Short Version for adults (Campos et al., 2022)"
+pre.MHL_EBS,Pre-test - Mental Health Literacy - Erroneous beliefs/stereotypes,"Mental Health Literacy questionnaire-Short Version for adults (Campos et al., 2022)"
+pre.MHL_FASHSB,Pre-test - Mental Health Literacy - First aid skills and help seeking behaviour,"Mental Health Literacy questionnaire-Short Version for adults (Campos et al., 2022)"
+pre.MHL_SHS,Pre-test - Mental Health Literacy - Self-help strategies,"Mental Health Literacy questionnaire-Short Version for adults (Campos et al., 2022)"
+pre.MHL_Total,Pre-test - Mental Health Literacy - Total,"Mental Health Literacy questionnaire-Short Version for adults (Campos et al., 2022)"
+pre.MHSAS,Pre-test - Mental Help seeking Attitude,"Mental Help Seeking Attitudes Scale (Hammer et al., 2018)"
+pre.STIG,Pre-test - Stigma,"Stigma-9 Questionnaire (Gierk et al., 2018)"
+pre.MHSES,Pre-test - Mental Health Self Efficacy ,"Mental Health Self Efficacy Scale (Clarke et al., 2014)"
+pre.SPANE_P,Pre-test - Scale of Positive and Negative Experiences - Positive,"Scale of Positive and Negative Experience (Diener et al., 2010)"
+pre.SPANE_N,Pre-test - Scale of Positive and Negative Experiences - Negative,"Scale of Positive and Negative Experience (Diener et al., 2010)"
+pre.SPANE_B,Pre-test - Scale of Positive and Negative Experiences - Balanced,"Scale of Positive and Negative Experience (Diener et al., 2010)"
+pre.FLOUSC,Pre-test - Flourishing ,"Flourishing Scale (Diener et al., 2010)"
+post.MHL_KMHP,Post-test - Mental Health Literacy - Knowledge of mental health problems,"Mental Health Literacy questionnaire-Short Version for adults (Campos et al., 2022)"
+post.MHL_EBS,Post-test - Mental Health Literacy - Erroneous beliefs/stereotypes,"Mental Health Literacy questionnaire-Short Version for adults (Campos et al., 2022)"
+post.MHL_FASHSB,Post-test - Mental Health Literacy - First aid skills and help seeking behaviour,"Mental Health Literacy questionnaire-Short Version for adults (Campos et al., 2022)"
+post.MHL_SHS,Post-test - Mental Health Literacy - Self-help strategies,"Mental Health Literacy questionnaire-Short Version for adults (Campos et al., 2022)"
+post.MHL_Total,Post-test - Mental Health Literacy - Total,"Mental Health Literacy questionnaire-Short Version for adults (Campos et al., 2022)"
+post.MHSAS,Post-test - Mental Help seeking Attitude,"Mental Help Seeking Attitudes Scale (Hammer et al., 2018)"
+post.STIG,Post-test - Stigma,"Stigma-9 Questionnaire (Gierk et al., 2018)"
+post.MHSES,Post-test - Mental Health Self Efficacy ,"Mental Health Self Efficacy Scale (Clarke et al., 2014)"
+post.SPANE_P,Post-test - Scale of Positive and Negative Experiences - Positive,"Scale of Positive and Negative Experience (Diener et al., 2010)"
+post.SPANE_N,Post-test - Scale of Positive and Negative Experiences - Negative,"Scale of Positive and Negative Experience (Diener et al., 2010)"
+post.SPANE_B,Post-test - Scale of Positive and Negative Experiences - Balanced,"Scale of Positive and Negative Experience (Diener et al., 2010)"
+post.FLOUSC,Post-test - Flourishing ,"Flourishing Scale (Diener et al., 2010)"
+GPT_Rating,How would you rate your experience with ChatGPT?,Excellent/ Good/ Fair/ Poor
+Prompts_Rating,How would you rate the prompts provided?,Excellent/ Good/ Fair/ Poor
+Intervention_Rating,How would you rate the intervention as a whole?,Excellent/ Good/ Fair/ Poor
+MHL_Rating,Are you now more knowledgeable about mental health?,Yes/ No/ Maybe
+GPT_MHL,would you use ChatGPT for MHL in the future? ,Yes/ No/ Maybe
+GPT_Flaw,Do you feel that any of the information provided by ChatGPT is flawed?,Yes/ No/ Maybe
+,,
+,,
+,,
+,,
