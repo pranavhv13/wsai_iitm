@@ -75,9 +75,3 @@ The overall objective of these experiments is to explore how detailed Indian per
 
 Wadhwani School of Data Science and AI (WSAI)
 Indian Institute of Technology Madras
-
----
-
-**Author**
-
-Pranav H V
